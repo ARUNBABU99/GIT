@@ -1,3 +1,4 @@
 stash test
 test1
 line added in feature
+new line added using master`
