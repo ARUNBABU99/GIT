@@ -2,6 +2,7 @@ git init
 git add
 git status
 git commit
+git checkout commid id
 git log
 git branch name
 git checkout name
